@@ -1,0 +1,30 @@
+body {
+  width: 800px;
+  font-family: courier;
+  padding: 40px;
+}
+
+h1 {
+  padding-top: 2px;
+  padding-bottom: 2px;
+  padding-left: 5px;
+  background-color: gray;
+  color: blue;
+  font-size: 150%;
+}
+
+li {
+  margin-bottom: 5px;
+}
+
+#nickname {
+  color: red;
+  text-align: center;
+}
+
+#myPicture {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 250px;
+}
